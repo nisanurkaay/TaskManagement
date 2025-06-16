@@ -1,0 +1,19 @@
+:root {
+  --color-blue-dark: #6482AD;
+  --color-blue-medium: #7FA1C3;
+  --color-beige: #E2DAD6;
+  --color-pink-soft: #F5EDED;
+  --color-bg: #f3f4f6;
+  --color-white: #ffffff;
+  --color-text: #1f2937;
+  --color-dark: #1e1e2f;
+  --color-light: #f9f9f9;
+  --color-border: rgba(0, 0, 0, 0.05);
+  --color-hover: rgba(100, 130, 173, 0.12);
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  background: var(--color-bg);
+  color: var(--color-text);
+}
